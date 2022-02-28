@@ -1,0 +1,620 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sergeant Thorpe judge of assize for the northern circuit, his charge, as it was delivered to the grand-jury at York assizes the twentieth of March, 1648. and taken in shortwriting. Clearly epitomizing the statutes belonging to this nation, which concerns (and, as a golden rule, ought to regulate) the severall estates and conditions of men. And (being duely observed) do really promote the peace and plenty of this Commonwealth.</title>
+            <author>Thorpe, Francis, 1595-1665.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94306</idno>
+            <idno type="STC">Wing T1071</idno>
+            <idno type="STC">Thomason E1068_1</idno>
+            <idno type="STC">ESTC R210315</idno>
+            <idno type="EEBO-CITATION">99869124</idno>
+            <idno type="PROQUEST">99869124</idno>
+            <idno type="VID">170619</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94306)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170619)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 159:E1068[1], 248:E1068[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sergeant Thorpe judge of assize for the northern circuit, his charge, as it was delivered to the grand-jury at York assizes the twentieth of March, 1648. and taken in shortwriting. Clearly epitomizing the statutes belonging to this nation, which concerns (and, as a golden rule, ought to regulate) the severall estates and conditions of men. And (being duely observed) do really promote the peace and plenty of this Commonwealth.</title>
+                  <author>Thorpe, Francis, 1595-1665.</author>
+               </titleStmt>
+               <extent>[2], 5-33, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>by Tho: Broad,</publisher>
+                  <pubPlace>Printed at York :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Law --  Great Britain --  Early works to 1800.</term>
+               <term>Law --  Philosophy --  Early works to 1800.</term>
+               <term>Justice, Administration of --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170619:1" rendition="simple:additions"/>
+            <p>Sergeant THORPE Judge OF ASSIZE for the NORTHERN CIRCVIT, His CHARGE, As it was delivered to the <hi>Grand-Jury</hi> at York Aſſizes the twentieth of <hi>March,</hi> 1648. and taken in Shortwriting.</p>
+            <p>Clearly epitomizing the Statutes belonging to this Nation, which concerns (and, as a golden rule, ought to regulate) the ſeverall eſtates and conditions of men.</p>
+            <p>And (being duely obſerved) do really promote the Peace and Plenty of this Commonwealth.</p>
+            <p>
+               <hi>Printed at York by</hi> Tho: Broad, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:170619:2"/>
+            <pb n="5" facs="tcp:170619:2" rendition="simple:additions"/>
+            <head>Serjeant <hi>Thorp,</hi> Judge of the Aſſiſe for the Northern Circuit, his <hi>Charge,</hi> as it was delivered at York Aſſiſes <hi>20</hi> March, <hi>1648.</hi> and taken in Short-Hand.</head>
+            <p>GEntlemen, Friends, and Countreymen, I do not queſtion but that the Stile, and Title of our Commiſſions under which we are now to act and execute the Authoritie and Power committed to our hands, being changed from <hi>Carolus Rex Angliae,</hi> to <hi>Cuſtodes Libertatis Angliae Authoritate Parliamenti,</hi> works divers effects upon the Tempers and ſpirits of men, according as the ſpi<g ref="char:EOLhyphen"/>rits themſelves are tempered and affected; and that ſome of thoſe ſpirits (like the Sunne upon Wax) it ſoftens into Obedience and compliance, and others of them again (like the ſame Sun upon Clay) it hardens into ſtiffneſſe and oppreſſion. Proud, Ambitious, and Malignant ſpirits finding themſelves fruſtra<g ref="char:EOLhyphen"/>ted and defeated hereby of their deſigned Hopes and hope<g ref="char:EOLhyphen"/>full Deſignes, for obtaining their deſired Ends; and being filled with prejudice to others, and ſelf-love to their own opini<g ref="char:EOLhyphen"/>ons, and therefore having turned themſelves aſide from the uſe of their own Reaſon, and from all Overtures and Arguments of ſa<g ref="char:EOLhyphen"/>tisfaction, and having given up their underſtanding to blinde Affections,— it ſtartles and confounds with Paſſions and Amaze<g ref="char:EOLhyphen"/>ments, heightned into choller and diſdaine; Becauſe looking thorow the falſe Glaſſe of their own ſelf-Intereſt, they finde no<g ref="char:EOLhyphen"/>thing therein but imaginary ſhakings of Foundations, overturn<g ref="char:EOLhyphen"/>ing of Laws, and confuſed heaps of Ruines &amp; Diſtractions. But to theſe, if any ſuch be preſent, (eſpecially if they have been for<g ref="char:EOLhyphen"/>merly ingaged in open Warre againſt the publike Intereſt of the Nation, and ſo are caſt by Gods juſtice for their Tranſgreſſions into a mean and low condition) All I ſhall ſay (with the poor comfort of calamity, <hi>Pitie</hi>) is this, That if they have not alrea<g ref="char:EOLhyphen"/>dy taſted enough of the Cup of Gods wrath for their miſdoings, let them take heed they ingage not again, for fear that hereafter they be inforced to drink the Dreggs of his diſpleaſure. Other ſilly ſpirits there are, who ſtanding unbottomed upon any ſolid Principles of their owne, finde themſelves toſſed to and fro with the Winde which blows from others mouthes; one while, liſte<g ref="char:EOLhyphen"/>ning to the Prophet who bids them go up to <hi>Ramoth-Gilead</hi> and
+<pb n="6" facs="tcp:170619:3"/> proſper; and by and by again yeelding to him that bidds them not go up for fear of periſhing, and ſo they are carryed into croſſe and oblique opinions and actions, tending to, and endange<g ref="char:EOLhyphen"/>ring their utter Ruine and Deſtruction. And to theſe men, all I ſhall ſay, and adviſe, is this, That they will forthwith repair to the School of Reaſon, and ſuffer themſelves to be guided and led by impartiall and wholeſome Leſſons and Inſtructions, to a better Information of their judgements, whereby they may be ſettled upon undenyable grounds in the knowledge of themſelves and the truth, and of their own Right, Intereſt, and Concernment. But another ſort of men there are, who are willing to let their eyes ſtand in the place where Nature ſet them, and to make uſe of that Reaſon and judgement which God hath given them, and with erected mindes, to apprehend the ſenſe of their own future happineſſe, and to hearken to the voyce which calls them to the flouriſhing actions of a reformed Commonwealth, and therefore do entertain this Change with ſutable Opinions and Comply<g ref="char:EOLhyphen"/>ance from theſe grounds which they thus propound and argue with themſelves.</p>
+            <p n="1">1. That all Power and Authority is Originally and Prima<g ref="char:EOLhyphen"/>rily in God, and comes from God; and this they reſt upon as being a Scripture truth.</p>
+            <p n="2">2. That God, out of his Wiſdome and Providence, hath diſ<g ref="char:EOLhyphen"/>penſed and tranſmitted ſo much of this Authority and Power to men, as is neceſſary for their uſe. Firſt, as in relation to the Infe<g ref="char:EOLhyphen"/>riour Creatures, to Rule and Governe them as Lord and King. And as in relation to one another from a Principle of Nature, <hi>[Conſervatio ſui-ipſius]</hi> To ſeek and endeavour their own preſer<g ref="char:EOLhyphen"/>vation and ſecurity, which Principle draws them to this Concluſi<g ref="char:EOLhyphen"/>on <hi>[Salus populi ſuprema Lex,]</hi> The ſafety of the people is the ſupreme Law both of Nature and Nations. And from this Na<g ref="char:EOLhyphen"/>turall Principle, and ſupreme Law of Nature, however all men in their Originall Creation are all of one and the ſame Sub<g ref="char:EOLhyphen"/>ſtance, Mould, and Stamp, yet for preſervations ſake, they finde a fitneſſe in Subordinations and Degrees among them, for the better ordering of their Affairs; and ſo they appoint Rulers, and authorize Governours over them, as Truſtees for themſelves. They alſo elect Government, create Rules, Orders, and Laws, by which they will have their Rulers and Governours to guide and Steer their Actions in the courſe of their Government, to which they will conform their obedience: and this Truth is aſcertained from hence, That there were People before there were either
+<pb n="7" facs="tcp:170619:3"/> Rulers or Governours of People, and that therefore theſe Ru<g ref="char:EOLhyphen"/>lers and Governours were but made by the People, and for the people, with this Reſerve, That whenſoever the people ſhould perceive that their Truſtees &amp; Governours did turn <hi>poteſtatem</hi> in<g ref="char:EOLhyphen"/>to <hi>potenti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m,</hi> the Power and Authoritie of Government, by Rule and Law formerly agreed upon, and conſented unto by the peo<g ref="char:EOLhyphen"/>ple, into an Armed Force; and that they did alter the Peoples <hi>Rempublicam</hi> into the Governours <hi>Rem privatam,</hi> and that their Government ceaſing to be free, was made to hang over the peo<g ref="char:EOLhyphen"/>ples heads as a Lordly Scourge to their deſtruction; Then, and from, thenceforth, and that with good comlineſſe of reaſon, the people betake themſelves to thoughts of Reformation; and find<g ref="char:EOLhyphen"/>ing cauſe to diſlike their former choice, being not tyed by any Scripture to any one Forme of Government, they chooſe againe and take ſome other Form, differing from that before, whereby they will avoid the evils they ſuffered under their former choice, and enjoy the good of a more beneficiall preſervation; for, like Marriners and men in a Ship at Sea, they will no longer truſt an unskilfull or perfidious Stearſman, leſt they ſhould be found guilty of their own enſuing Shipwrack and deſtruction.</p>
+            <p>This brings me to the next Aſſertion and Poſition, which I own as a moſt certain Truth and my greateſt earthly aſſurance, That the People [under God] is the Originall of all juſt Pow<g ref="char:EOLhyphen"/>er, and that let the Government runne out into what Forme it will, <hi>Monarchy, Ariſtocracy,</hi> or <hi>Democracy,</hi> yet ſtill the Originall Fountain thereof is from the Conſent and Agreement of the Peo<g ref="char:EOLhyphen"/>ple. From this Aſſertion and Poſition I am led on further, by plain reaſon to underſtand, <hi>That Rulers and Governours are accoun<g ref="char:EOLhyphen"/>table to the People for their miſ-government;</hi> namely, when they tranſgreſſe the Rules and Lawes by which the people did agree they would be governed. But let me not be miſtaken, for when I ſay <hi>Accountable to the People,</hi> I doe not mean to the hu<g ref="char:EOLhyphen"/>mours and fancies of particular men in their ſingle &amp; naturall ca<g ref="char:EOLhyphen"/>pacities, but to the people in their Politique Conſtitution, law<g ref="char:EOLhyphen"/>fully aſſembled by their Repreſentative.</p>
+            <p>Touching the Government of this Nation, it hath anciently been Monarchicall in the frame and conſtitution of it, but yet it never was a pure Monarchie, for a pure Monarchie is a clear Ty<g ref="char:EOLhyphen"/>ranny; but it was a Politicall Monarchie, or Monarchy govern<g ref="char:EOLhyphen"/>ed by Lawes, taking in thereto all the goods, and avoiding all the ills both of <hi>Ariſtocracy</hi> and <hi>Democracie;</hi> and ſo I may truly ſay, that look upon the Frame and conſtitution of it alone, and as it
+<pb n="8" facs="tcp:170619:4"/> were, upon the Theoreticall and contemplative part of it; and ſuppoſing it poſſible that the Practiſe would anſwer the Theo<g ref="char:EOLhyphen"/>rie, no man can deny, but that it was a Frame of moſt ex<g ref="char:EOLhyphen"/>cellent Order and Beautie; For, firſt, it had a King the chiefeſt Officer, one ſingle Perſon; and therefore avoiding the proud Fa<g ref="char:EOLhyphen"/>ctions and contentions uſually happening in <hi>Ariſtocracy,</hi> as like<g ref="char:EOLhyphen"/>wiſe the diſordered confuſions common in ſingle <hi>Democracy;</hi> but yet a King bounded and compaſſed with Lawes above him, be<g ref="char:EOLhyphen"/>ing the Rules already made and given him to Rule by; and with a neceſſitie of concurrence and complyance with Lords and Com<g ref="char:EOLhyphen"/>mons below him, for future Legiſlative Power and Authority, and ſo avoiding the danger of Tyrannie uſually incident to Monar<g ref="char:EOLhyphen"/>chies, which commonly makes the Monarchs <hi>Will</hi> the Law, and ſo eſtabliſhing the Government upon this Foundation, <hi>Voluntas Imperatoris Lex eſto.</hi>
+            </p>
+            <p>But [alas] when I have ſhewed you the Frame and Conſtitu<g ref="char:EOLhyphen"/>tion of the late Government, I have ſhewed you all the Beauty of it; for when you come to examine the practical part, you ſhall find nothing leſſe then excellency or perfection in it. Look into your own Stories, and you ſhall alwayes finde the King and great Lords (<hi>Comites ſuos,</hi> as they were called) incroaching upon the peoples Liberties &amp; Rights, incroaching to themſelves ſuperlative Prero<g ref="char:EOLhyphen"/>gatives, and Dominion over them: On the other ſide you ſhall finde again the People ſtruggling to preſerve themſelves and their own Intereſt, labouring ſtill to avoid the miſeries and to free themſelves from the miſchiefs of their ſufferings.</p>
+            <p>The Times and Tranſactions before the Norman <hi>William</hi> got the Crown, and which paſt among the <hi>Brittains, Romans, Danes,</hi> and <hi>Saxons,</hi> being dark and obſcure, I paſſe by, and therefore I ſhall onely ſpeak ſomething of the times and tranſactions ſince.</p>
+            <p>Firſt, the Tyrannicall Domination of that firſt <hi>William</hi> and his ſonne the ſecond <hi>William,</hi> gave the People to ſee their enſuing miſeries; for though they made choice of the ſecond <hi>William,</hi> who was but a ſecond ſonne, and rejected <hi>Robert</hi> his Elder Brother, yet they ſoon found their kindneſſe was ſuddenly forgotten, when once the Crown was obtained, and therefore they refuſed when he was dead to chuſe again, till by ingagements, Oathes, and Royall Promiſes of better Government, they were cheated into a ſecond Election of <hi>Henry</hi> the firſt, who was a younger bro<g ref="char:EOLhyphen"/>ther likewiſe. But it was not long after ere <hi>Monarchie</hi> plaid <hi>Rex,</hi> and <hi>Pleaſure</hi> and <hi>Will</hi> Ruled, the whole Kingdom almoſt was turned into Forreſts; the Lawes which the people were brought
+<pb n="9" facs="tcp:170619:4"/> to live under, and obey, were the cruell and inſupportable Laws of the Forreſt, which were made rather to preſerve the Beaſts, then the People within the bounds of Forreſts. Then the people finding no other remedy, betook themſelves to thoughts of Re<g ref="char:EOLhyphen"/>formation, as I told you at the firſt. And in the time of King <hi>Stephen,</hi> at <hi>Renymeed,</hi> they demanded reſtitution of St. <hi>Edwards</hi> Laws, for ſo they call'd that Saxon <hi>Edward,</hi> who was dead many years before, without any Heir or Succeſſor of that kinde, (for we never read of any St. King ſince him:) And by thoſe Lawes they ſay they will be governed, and to thoſe Laws they will con<g ref="char:EOLhyphen"/>forme. Hereupon a new Compact is made, the Articles of <hi>Re<g ref="char:EOLhyphen"/>nymeed,</hi> containing moſt of St. <hi>Edwards</hi> Lawes, are confirmed and eſtabliſhed, by conſent in Parliament, &amp; ſo the people are for that time ſatisfyed, and think themſelves very ſafe (as they well might think ſo) under the ſecurity of an Act of Parliament. But yet this Act proved no ſecurity, for in a ſhort time after all was let looſe again, and the ſame miſchiefs and oppreſſions upon the peo<g ref="char:EOLhyphen"/>ple were ſtill continued, as before, and many more additions made thereto, to the utter inſlaving of the Engliſh Nation.</p>
+            <p>Hereupon the people ſtand up once more for their Liberties and Native Rights in the ancient Lawes of the Land, and de<g ref="char:EOLhyphen"/>mand the ſecond time to have them confirmed, and to be kept from violation; and ſo in the ninth year of King <hi>Henry</hi> the third was the great Charter of the Liberties of <hi>England</hi> [being but a Declaration of the ancient Common Lawes of the Land, and little differing from the Articles of <hi>Renymeed,</hi> together with the Char<g ref="char:EOLhyphen"/>ter of the Forreſt,] framed and conſented unto in full <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> and are the firſt Acts of <hi>Parliament</hi> now extant in Print. And ſo the people ſat down again under the protection of this ſecond Securitie; but how weak a Security it prov'd, let the pra<g ref="char:EOLhyphen"/>ctiſe of the next King, and all ſucceeding Kings tell you, though it hath been confirmed and allowed by themſelves two and thirty times; for in the two next Kings times you ſhall finde the good<g ref="char:EOLhyphen"/>men of the Land diſcountenanc'd, and vain, looſe, and wanton perſons to be the men in higheſt eſteem; nay, Murderers and Robbers and the like, cheriſht and maintain'd; and if brought to publike juſtice, and condemned for their miſdoings, yet pardo<g ref="char:EOLhyphen"/>ned again, and ſet at Liberty, and though [by the Fundamen<g ref="char:EOLhyphen"/>tall Law] <hi>Parliaments</hi> [the uſuall Salve for the peoples Soars] were to bee called and held twice a year, yet were they laid aſide, and rarely made uſe of; and then when they were called, it was but to ſerve the Kings turn for granting Subſidies, or the
+<pb n="10" facs="tcp:170619:5"/> like And this when the people perceived, in the time of King <hi>Edward</hi> the ſecond, they thought fit to queſtion his miſ-govern<g ref="char:EOLhyphen"/>ment by Articles of Impeachment in <hi>Parliament</hi> againſt him, and then to depoſe him from his Kingly Office, and to make his Son (during his Fathers life-time) Warden of the Kingdome, and ſhortly after they made him King (while his father lived) by the name of <hi>Edward the third.</hi> And now are Acts of <hi>Parliament</hi> made againſt the former miſchiefs: firſt, againſt the Kings granting Pardons to Robbers and Murderers; and four Acts of <hi>Parliament</hi> are made in the neck of one another,<note place="margin">6. E. 1. 9. 2. E. 3. 2. 4. E. 3. 13. 10. E. 3. 2. 14. E. 3. 13.</note> and purſuing one another before telling the King plainly, that he may not, hee muſt not grant Pardons, but where he may do it by his Oath, namely, in caſe of Homicide, by misfortune, and Homicide in his owne defence. Secondly, for more frequent holding of <hi>Parliaments,</hi> namely, That they ſhould be held once a year, and oftner if need be. But little effect did theſe produce, for the miſchiefs have continued, and the people have ſtill ſuffered (by the breach of thoſe Laws, even untill theſe very times) the very ſame miſ<g ref="char:EOLhyphen"/>chiefs as before.</p>
+            <p>In the time of King <hi>Richard</hi> the ſecond, the diſorders of the Court, and Oppreſſions upon the people from thence were ſo great and unſupportable, that the people Articled againſt that King, and likewiſe depoſed him; and ſo they afterward did in like manner Depoſe King <hi>Henry</hi> the ſixt, &amp; K. <hi>Edward</hi> the fourth by conſent in Parliament. Thus you ſee how the exerciſe of Kingly Office within this Nation hath been made uſe on to the damage of the people, and how the people again have put in ure their Authoritie over their Kings, to call them to an account for their miſ-governments. Touching the laſt King much hath been ſaid, and too much hath been felt by this Countie, in relation to the laſt Warre. But (pardon me if I tell you ſo) it was a juſt puniſhment of God upon us of this Countie; for, I may truly ſay, the Warre had its Riſe and Beginning here, here in this Countie, nay, here in this Court, for this was the firſt place in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> where any <hi>Grand-Juries</hi> of the Countie charged them<g ref="char:EOLhyphen"/>ſelves and their Countrey men with any Taxe to raiſe a Warre againſt the Publike Intereſt of the people, as they did here when at Summer Aſſizes in the year 1642. they charged the Countie with a Tax of 8600 pounds, to maintain 1000 Dragoons upon pretence to keep the Country in Peace. But, alas, the Dragoons were no ſooner raiſed, but they were made uſe on for another
+<pb n="11" facs="tcp:170619:5"/> Service, namely, to attend the Kings Standard at <hi>Nottingham,</hi> and from thence were carryed to fight at <hi>Edgehill</hi> againſt the Parlia<g ref="char:EOLhyphen"/>ments Forces, for better keeping the Peace in Yorkſhire. And though it be true, that this Tax of 8600 pounds was never levy<g ref="char:EOLhyphen"/>ed, yet our own great Lords and Gentlemen made it the Founda<g ref="char:EOLhyphen"/>tion and Riſe of another Tax of thirty thouſand pounds, which they laid and levyed upon the Countie in <hi>October</hi> after, for bring<g ref="char:EOLhyphen"/>ing in the Earl of <hi>Newcaſtle</hi> and his Forces.</p>
+            <p>But (as I ſaid before) Gods puniſhment is juſt upon us, for as the Warre began here, ſo it hath ever ſince continued among us, even at this day, when all the reſt of the Kingdome is in Peace and quietneſſe, onely we are now upon Sieging, at our owne Charge, of you curſed Caſtle at <hi>Pontefract,</hi> which began at firſt, and continues to be the laſt of all our Enemies Holds and Garriſons within this Nation.</p>
+            <p>But to return to the point of the Kings Incroachments upon the Peoples Liberties, and therein I will clearly tell you my own thoughts in one particular, and inſtance in that one, (but it is to my Apprehenſion, <hi>
+                  <g ref="char:V">Ʋ</g>num magnum,</hi> and <hi>inſtar omnium</hi>) it is as the Lyon ſaid of her Whelp when the Fox upbraided her, That ſhe was not ſo fruitfull in procreation as the Fox, but brought forth onely one Lyon at once, ('tis true, ſaith the Lyon) but that one is a Lyon: And ſo I may ſay by the Kings Negative Voyce in Parliament, for admit but this one peece of Preroga<g ref="char:EOLhyphen"/>tive to be juſt, and conſonant to the Conſtitution of the Govern<g ref="char:EOLhyphen"/>ment, and I dare affirm, that the Engliſh Nation were in a poſ<g ref="char:EOLhyphen"/>ſibility (by that Conſtitution of Government) to be as arrant Slaves and Vaſſals, as were in Turkie, or among the <hi>Moors</hi> in the Gallies: For let the King put what Oppreſſion he will upon the People, let their <hi>grievances</hi> and <hi>burthens</hi> be never ſo great, and let him [at the peoples Deſires] call Parliaments for redreſſe thereof never ſo often, and let never ſo good Bills be prepared and pre<g ref="char:EOLhyphen"/>ſented to him, for Reformation, yet ſtill he ſhall put them off with this Royall Complement, <hi>Le Roy Sadviſera,</hi> ſignifying (<hi>quoad</hi> the Practiſe) in plain Engliſh, <hi>I will not help you, nor releaſe the unjuſt Burthens and Oppreſſions I have laid upon you.</hi>
+            </p>
+            <p>But add to this that other Incroachment of the Lords Negative Voyce upon the people, which they alſo have with much Lordli<g ref="char:EOLhyphen"/>neſſe practiſed in anſwer to the Commons Bills, though of higheſt concernment for their Weale, (however they expreſſe that Nega<g ref="char:EOLhyphen"/>tive in Court Language and good words, <hi>We will ſend an anſwer by Meſſengers of our owne;</hi> as if the people ſhould expect they
+<pb n="12" facs="tcp:170619:6"/> meant to return ſome concurrence with them, when [God knows] nothing is leſſe thought upon, or meant by them.)</p>
+            <p>And now let the people ſee their own condition, now let them conſider how they have been abuſed by good words and phraſes, which if they had clearly &amp; univerſally underſtood the meaning of; or if theſe Negatives had been clearly expreſt, in down-right language, [<hi>We will not help you,</hi> or, <hi>We will not eaſe you of your Burthens or Oppreſſions that lie ſo heavy upon you,</hi>] truely then I preſume the people would long ſince have been ſtirr'd up to help themſelves, and to have endeavoured as well to take away the miſchief, as to avoid the miſerie of ſuch a Government. For mine own part I ſpeak it freely from my heart, That as I am a Free<g ref="char:EOLhyphen"/>man both by Birth an Education, and am Inheritable to the Laws and Free-Cuſtomes of <hi>England;</hi> ſo I do naturally deſire the ſecurity of Government, and I do willingly ſubmit to the juſtice of known Lawes: But I have ever adhorred all Arbitrary Pow<g ref="char:EOLhyphen"/>ers, or to be ſubject to the Wils or Paſſions of men; &amp; therefore I have alwayes thought (ſince I could think any thing upo<g ref="char:cmbAbbrStroke">̄</g> grounds of Judgement or Reaſon) That ſo long as theſe two fore-mentio<g ref="char:EOLhyphen"/>ned Negatives remained upon the people, there could be no ſecu<g ref="char:EOLhyphen"/>rity or freedome in their Government; and there was no one thing that hath ſo firmly fixt me in the way I have gone, where<g ref="char:EOLhyphen"/>in I now am, and to oppoſe the other, as the miſchiefs I under<g ref="char:EOLhyphen"/>ſtood to bee in the two Negative Voyces of the <hi>King</hi> and the <hi>Lords.</hi> Adding to theſe two fundamentall Court-Errours, and deſtructive Poſitions, maintain'd and held forth to the people by flattering Royaliſts, and proud and ambitious Prelates and Cour<g ref="char:EOLhyphen"/>tiers, <hi>viz.</hi> Firſt, <hi>That the King had an Originall right to Rule;</hi> And ſecondly, <hi>That the King was accountable to none but GOD for his miſgovernment:</hi> Lay but theſe two together with the Nega<g ref="char:EOLhyphen"/>tive Voyce, and let any man judge what they may and muſt ne<g ref="char:EOLhyphen"/>ceſſarily produce in point of Tyrannie and Oppreſſion over the people.</p>
+            <p>Thus have I ſhewed you the true Originall of all Power and Authority, and from whence it is that the Exerciſe of Authority and Power is practiſed among men, over one another; I have ſhewed you alſo the juſtice which lies in this, <hi>That Kings, Rulers, and Governours [and particularly the King of this Nation] ſhould be accountable to the People for their miſgovernments;</hi> and how de<g ref="char:EOLhyphen"/>ſtructive a Tenent it is to ſay, <hi>That a King hath right to Rule over men upon Earth, and that yet GOD hath not given a Power to earth<g ref="char:EOLhyphen"/>ly men to call him to account for miſgovernment;</hi> unleſſe you will
+<pb n="13" facs="tcp:170619:6"/> ſuppoſe that Kings at firſt did fall from Heaven, and were ſent down from above to exerciſe their <hi>wils,</hi> and act their <hi>luſts</hi> below.</p>
+            <p>Having ſaid thus much upon this ſubject onely to give a hint, from whence you may obſerve (till the Parliaments own Decla<g ref="char:EOLhyphen"/>ration be publiſht, which I hope will fully and clearly ſet them out) what the Grounds and Reaſons were that the Parliament hath found the Kingly Office within this Nation to be uſeleſſe, and dangerous, and why therefore they will no more truſt the Crown upon the Head of any one Perſon, nor transferre the cu<g ref="char:EOLhyphen"/>ſtodie of the Liberties of England and Engliſhmen into the Pow<g ref="char:EOLhyphen"/>er of another, who may abuſe them; and therefore why likewiſe they reſolve to keep the Crown within its proper place the Ca<g ref="char:EOLhyphen"/>binet of the Law, and to allow the Law onely to King it among the people, and that the people themſelves [by their Repreſen<g ref="char:EOLhyphen"/>tatives] ſhall be the onely Keepers of their own Liberties, by Authoritie derived from their own Supreme and Soveraign pow<g ref="char:EOLhyphen"/>er; which brings me now to the ſtile of our Commiſſions, <hi>Cuſto<g ref="char:EOLhyphen"/>des libertatis Angliae Authoritate Parliamenti.</hi>
+            </p>
+            <p>And touching the King of <hi>England</hi> his right to Rule, or Title of Law by Inheritance and Deſcent to the Crown of <hi>England,</hi> thus much may be ſafely and truely ſaid, That if it be an Ancient and Originall Inheritance fixt in one Family, it was gain'd at firſt by the power of the ſword, and by Conqueſt, which Title in Law is but a <hi>diſſeiſin</hi> and an unlawfull Title, and therefore may bee again as juſtly regained, as it was gained at firſt by Force, and by the ſtronger Arm and ſharper Sword; And as it was ſo gain'd at firſt, ſo it hath been ever ſince either by the like pure force, or elſe by conſent in Parliament upon particular caſes kept and maintained; and ſo you will finde if you look how every King ſince the Norman <hi>William</hi> (call'd the Conquerour) came to the Crown; For of all thoſe four and twenty Kings and Queenes which have ſince that time Kingd it among us, there are but ſeven of them who could pretend Legally to ſucceed their former Pre<g ref="char:EOLhyphen"/>deceſſors, either by Lyneall, or Collaterall Title. I have not lea<g ref="char:EOLhyphen"/>ſure to repeat the particulars, and this I have ſaid may ſerve to give you occaſion (if you be ſo minded) to look further into it, and to ſatisfie your judgements herein, and by conſequence to keep you from ingaging againſt your ſelves and the Nation, for a Name, or for a Thing which is not truth.</p>
+            <p>Now I come to that which is our true buſineſſe, our work of the firſt magnitude, <hi>Opus diei in die ſuo,</hi> the Articles of your Charge which I intend [for the better helping of your memories]
+<pb n="14" facs="tcp:170619:7"/> to deliver to you in writing, with the Laws and the puniſhments, and briefly to runne over the rehearſall of the Facts onely, with<g ref="char:EOLhyphen"/>out further mention concerning them; yet with ſuch neceſſary Expoſitions and Explanations of particulars as ſhall be needfull in my paſſage through them; adding onely this for an Animad<g ref="char:EOLhyphen"/>verſion to you, That you and I are truſted at this time with the adminiſtration of Juſtice in our own Countrey, amidſt all the Temptations which our ſeverall Relations of Friends, Kindred, or Acquaintance can Offer unto us; which ſhews, that they who do ſo truſt us, have great aſſurance and confidence in us; and then we muſt conclude, that this confidence puts a greater obligation upon us to fidelitie and integritie in the diſcharge and performance of that Truſt committed to us; adde to this that <hi>[Vinculum animae]</hi> the Bond of the Soule the Obligation of an Oath, and I doubt not but it will be found, that though Love, Fear, and particular Intereſt be the uſuall Cords which halter Juſtice, that yet at this time they will be found to be among us but ſorry and unmaſculine pieces of Rhetorick, either to af<g ref="char:EOLhyphen"/>fright us from, or ſoften us in our duties.</p>
+            <p>The matter of your Charge will be to inquire into, and finde out the ſeverall Offences which have been committed and done againſt the Politique Body of the Commonwealth, as ſo ma<g ref="char:EOLhyphen"/>ny ſeverall Diſeaſes and infirmities in the ſeverall parts of the na<g ref="char:EOLhyphen"/>turall Body of a man, which diſtemper and endanger the health of the whole, and they are of four ſorts.</p>
+            <p>Firſt, ſuch as are againſt the Peace of the Commonwealth, or whereby Publike Peace is diſturbed, and thoſe I call Diſeaſes in<g ref="char:EOLhyphen"/>dangering the heart of this Politique Bodie.</p>
+            <p>Secondly, ſuch as are againſt the Juſtice of the Common<g ref="char:EOLhyphen"/>wealth, or whereby publique juſtice is perverted, and thoſe I call Diſeaſes indangering the Head of this politique Body.</p>
+            <p>Thirdly, ſuch as are againſt the plenty of the Commonwealth, or whereby publike plenty is diminiſhed, and thoſe I call Diſea<g ref="char:EOLhyphen"/>ſes againſt the ſtomack of this politique Body.</p>
+            <p>Fourthly, ſuch as are againſt the beauty and good Complexi<g ref="char:EOLhyphen"/>on of the Commonwealth, or whereby this beautie and good Complexion is diſcoloured and defaced, contained under the Name of <hi>Common Nuſances,</hi> and thoſe I call Diſeaſes againſt the Senſes, the Leggs and the Feet of this politique Body.</p>
+            <p>Touching thoſe againſt Peace, they are of five ſorts.</p>
+            <p n="1">1. <hi>Treaſons,</hi> which againe are either <hi>High-Treaſon</hi> or <hi>Petty-Treaſon.</hi>
+            </p>
+            <p n="2">
+               <pb n="15" facs="tcp:170619:7"/>2. <hi>Felonies,</hi> which again are done either againſt the Perſon, or Poſſeſſion of another. 3. <hi>Premunire.</hi> 4. <hi>Miſpriſions.</hi> 5. <hi>Treſpaſſes.</hi>
+            </p>
+            <div type="part">
+               <head>High-Treaſons are theſe.</head>
+               <p n="1">1. If any levy Warre againſt the ſupreme Authority of the Nation, or adhere to the enemies thereof. And when I do ſo expreſſe it, <hi>Supreme Authority,</hi> I give you the meaning of the <hi>Stat.</hi> 25. <hi>E.</hi> 3. 2. which mentions it thus, <hi>If any levie warre againſt the King, or adhere to the Kings enemies within the Realm;</hi> for the name and word <hi>King [quatenus</hi> the chiefe Officer betruſted with the Government in the Adminiſtration of that Government] is fre<g ref="char:EOLhyphen"/>quently uſed to ſet forth the publique Intereſt of the People, ſo we call it <hi>The Kings Peace, The Kings Coyne, The Kings High-way,</hi> and the like, all which in truth are the publike concernments of the people, being for their publike uſe and benefit, and are there<g ref="char:EOLhyphen"/>fore expreſt and exhibited unto us under the notion of the Kings Name, becauſe he is their publike Officer, and truſted for them; ſo that to levie warre againſt the King, or to adhere to the Kings enemies, is to levie war againſt the Kingdom, &amp; the Government of it, and the Supreme Power &amp; Authority of it; or, which is more plain in the expreſſion, to levie war without lawfull Warrant and Authority ſo to do; &amp; yet this I beleeve was that which hath miſ<g ref="char:EOLhyphen"/>led (&amp; perhaps may ſtill miſlead) many of our Country men, That becauſe they had the Perſon of the King with them, [betwixt whom and whom there were mutuall and reciprocall deceivings] and they [never remembring that when in Perſon hee deſerted the Parliament, he left the King and Kingly Authority behinde, him, becauſe he left the Kingly Office, and the Power thereof, and publike Government behinde him) they catcht at the ſhadow, but let go the ſubſtance, and ſo under colour of fighting for the King, they fought againſt him. Yet becauſe <hi>omnis non capit hoc,</hi> every man did not underſtand this diſtinction betwixt the poli<g ref="char:EOLhyphen"/>tique and naturall body of the King, therefore ſee how merci<g ref="char:EOLhyphen"/>fully and favourably the Parliament hath dealt with theſe men, that they have not preſt the rigour of Law upon the Offenders of this kinde, whoſe Offences being High-Treaſon by the funda<g ref="char:EOLhyphen"/>mentall juſtice of this Nation, and ſo their Lives, whole Eſtates, Lands and Goods being forfeited to the Law for the ſame, yet this forfeiture hath not beene exacted upon them; but, in hope they will at laſt ſee their Errours, and repent for their miſdoings, the Parliament hath been pleaſed to carry a more tender hand,
+<pb n="16" facs="tcp:170619:8"/> and by way of commutation to paſſe over their Offences with the puniſhment of a ſmall fine for ſuch miſdoings, yet with this ſilent admonition, like that to the woman in the Goſpell, <hi>Go thy way and ſinne no more, leſt a worſe thing happen unto thee.</hi>
+               </p>
+               <p n="2">2. If any counterfeit the Great Seal, Privie Seal, or Privie-Signet.</p>
+               <p n="3">3. If any counterfeit the Coyn of the Nation, or otherwiſe Clipp or diminiſh it.</p>
+               <p n="4">4. If any kill a Judge of Juſtice or Oyer and Terminer in his Place doing his Office.</p>
+               <p n="5">5. If any Jeſuite or Seminary Prieſt, born in <hi>England,</hi> and Or<g ref="char:EOLhyphen"/>dained and Profeſſed beyond-Sea, by Authority derived from the <hi>Sea of Rome,</hi> do come into, or abide within this Realm.</p>
+               <p n="6">6. If any the ſecond time extoll, defend, or maintain within this Realm the uſurped Juriſdiction or Authority of the Pope, or any other Forraign Prince.</p>
+               <p n="7">7. If any bring over and put in ure, or receive from beyond-Sea any Bull or Inſtrument of Abſolution, or Reconciliation, to Abſolve the people of this Nation from their Allegiance here to the <hi>Sea of Rome,</hi> or indeavour the ſecond time to withdraw the People to the obedience of the <hi>Sea of Rome,</hi> or if any be Abſolved, Reconciled or withdrawn. And here you muſt underſtand, that in Treaſons all Actors and Conſenters are Principalls, and there are no Acceſſaries at all in Treaſon.</p>
+            </div>
+            <div type="part">
+               <head>Pettie-Treaſons are theſe.</head>
+               <p>If a ſervant kill his or her Maſter or Miſtris.</p>
+               <p>If a Wife kill her Husband.</p>
+            </div>
+            <div type="part">
+               <head>Premunire.</head>
+               <p>Touching <hi>Premunire,</hi> it is properly a Writt or Proceſſe of Sum<g ref="char:EOLhyphen"/>mons awarded againſt ſuch as brought in Bulls, or Citations from the Court of <hi>Rome</hi> to obtain Eccleſiaſticall Benefices, by way of Proviſion before they fell void; for of old time divers Acts of <hi>Parliament</hi> were made, <hi>viz.</hi> in the times of K. <hi>Edward</hi> the third, K. R. 2. and K. H. 4. againſt the Popes exerciſe of Juriſdiction within this Nation, and againſt thoſe ſubjects that did appeale from the Courts of Juſtice here to the Court of <hi>Rome,</hi> and who obtain'd Proviſions there to have Abbeys, and Priories, or Bene<g ref="char:EOLhyphen"/>fices with Cure here, which proceedings tended (ſay thoſe Sta<g ref="char:EOLhyphen"/>tutes) to the deſtruction of the Realm, and of Religion; There<g ref="char:EOLhyphen"/>fore theſe being held to be great Offences, and ſo tending to the
+<pb n="17" facs="tcp:170619:8"/> diſheriſon of the Rights belonging to the Crown and people of <hi>England,</hi> and to the deſtruction of the common Law, are made to be grievouſly puniſhable, <hi>viz.</hi> To be impriſoned during life, To forfeit Lands and Goods, and to be put out of the protection of the Law. Afterward other later Laws were made in the time of Queen <hi>Elizabeth</hi> againſt other Offences of like nature, wherewith you have now to do, namely,</p>
+               <p>If any ſend over or contribute money or relief for maintenance of any <hi>Ieſuite,</hi> or <hi>Seminary Prieſt,</hi> or Colledge beyond-Sea.</p>
+               <p>If any extoll defend or maintain the juriſdiction or authority of the <hi>Pope,</hi> (or of any other forraign Prince) within this Nation.</p>
+               <p>If any bring over any <hi>Agnus Dei, Croſſes, Pictures,</hi> or <hi>Beads,</hi> Hallow'd (as they call it) at <hi>Rome,</hi> to diſperſe among the Peo<g ref="char:EOLhyphen"/>ple, or if any perſon receive any ſuch, or know of this Offence, and conceal it three dayes.</p>
+               <p>If any do Aid or Aſſiſt thoſe who put in ure any <hi>Popes Bulls,</hi> or Inſtruments of Abſolution brought from <hi>Rome.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Miſpriſion of Treaſon are theſe.</head>
+               <p>If any know another to be guiltie of High-Treaſon, and doe conceal it.</p>
+               <p>If any Forge or Counterfeit Forreign Coyn, not currant here.</p>
+               <p>If any utter Counterfeit Coyn, knowing it to be ſuch.</p>
+               <p>If any ſtrike, or draw a Sword to ſtrike a Juſtice ſitting in place of judgement.</p>
+            </div>
+            <div type="part">
+               <head>Fellonies againſt the perſon of another are thoſe.</head>
+               <p>If any commit Homicide, <hi>viz.</hi> kill or ſlay another.</p>
+               <p>If out of precedent malice, expreſt or implyed, it is murther.</p>
+               <p>If upon a ſudden falling out, it is man-ſlaughter.</p>
+               <p>If in doing a lawfull Action, it is called <hi>Chance-Medley,</hi> miſad<g ref="char:EOLhyphen"/>venture or misfortune.</p>
+               <p>If in his own defence, it is ſo ſtiled, Homicide <hi>ſe defendendum;</hi> and ſo alſo Poiſoning, Stabbing, and Witching to death are Homicides.</p>
+               <p>If any commit Rape, <hi>viz.</hi> have the carnall knowledge of a wo<g ref="char:EOLhyphen"/>man againſt her Will, or with her Will, if ſhee bee under ten years old</p>
+               <p>If any take away, or conſent, or aſſiſt to take away any Maid, Widdow, or Wife againſt her Will, ſhe being then intereſted in Lands or Goods.</p>
+               <pb n="18" facs="tcp:170619:9"/>
+               <p>If any marry a ſecond Husband, or Wife, the firſt being alive.</p>
+               <p>If any commit Buggery, or Sodomy, a crime <hi>Inter Chriſtianos non nominandum,</hi> ſayes the Indictment.</p>
+               <p>If any <hi>Gipſey</hi> or counterfeit <hi>Egyptian</hi> have continued a moneth within this Nation.</p>
+               <p>If any perſon appointed by Law to abjure, refuſe it, or returne after abjuration.</p>
+               <p>If any do wilfully and maliciouſly cut out the Tongue, or put out the eyes of another.</p>
+               <p>If any receive, or relieve, or maintain any Jeſuite or other Semi<g ref="char:EOLhyphen"/>nary Prieſt, knowing him to be ſuch.</p>
+               <p>If any incorrigible Rogue, judged dangerous, and baniſhed, re<g ref="char:EOLhyphen"/>turn again:</p>
+               <p>
+                  <hi>If</hi> any dangerous Rogue, branded in the Shoulder, returne again to a Roguiſh life.</p>
+               <p>If any perſon infected with the Plague wilfully go abroad, and converſe among company.</p>
+            </div>
+            <div type="part">
+               <head>Felonies againſt the Poſſeſſion are theſe.</head>
+               <p>If any break a Dwelling-Houſe in the night, with intent to do any Felonious Act there.</p>
+               <p>If any robb another by the high way, or take any thing pri<g ref="char:EOLhyphen"/>vately from his perſon.</p>
+               <p>If any take the Goods of another in his abſence, with intent to ſteal them.</p>
+               <p>If any ſervant go away with his Maſters Goods (delivered to him) with intent to ſteal them, being of the value of forty ſhil<g ref="char:EOLhyphen"/>lings, or above.</p>
+               <p>If any robb a Church.</p>
+               <p>If any maliciouſly burn the Houſe, or Stack of Corn, or Barne of Corn of another.</p>
+               <p>If any take up a Hawk, and do not carry her to the Sheriffe to be proclaimed.</p>
+               <p>If any do the ſecond time forge any Deed, Evidence, or Wri<g ref="char:EOLhyphen"/>ting, and publiſh it to be a good Deed.</p>
+               <p>If any acknowledge a Fine, or Judgement, or Deed to be in<g ref="char:EOLhyphen"/>rolled in the Name of another, and not being the true perſon.</p>
+               <p>If any Raſe, Imbezzell, or withdraw any Record of the Court.</p>
+               <p>If any uſe the Art of Multiplication of Gold, or Silver.</p>
+               <p>If any Hunt by night in Parks or Warrens with painted Faces, or other diſguiſes, and deny it upon examination.</p>
+               <p>If any perſons above twelve in number raiſe any Tumults or unlawfull aſſemblies.</p>
+               <pb n="19" facs="tcp:170619:9"/>
+               <p>If above 40 perſons ſhal aſſemble together to do any unlawfull Act, and ſhall continue together three hours after Proclamation for their departure.</p>
+               <p>If any depart out of this Nation to ſerve a Forraigne Prince, without leave, and before Bond entered, and Oath taken ac<g ref="char:EOLhyphen"/>cording to the Statute.</p>
+               <p>If any Soldier, or Marriner, who hath received Preſt-wages, according to the Statute, do afterward depart from their Service without Licenſe.</p>
+               <p>If any ſuch Souldier or Marriner do wander and begge, with<g ref="char:EOLhyphen"/>out a Paſſe, or if they counterfeit their Paſſe.</p>
+               <p>If any Perſon having the Cuſtody of publike Stores of Victu<g ref="char:EOLhyphen"/>all, or Ammunition, imbezzell or purloin any of it, to the va<g ref="char:EOLhyphen"/>lue of twenty ſhillings, or above.</p>
+               <p>If any do the ſecond time tranſport ſheep beyond-Sea.</p>
+               <p>If any perſwade another to commit any Felony, or receive and aſſiſt any Felon after the Felonie committed, theſe are Acceſſaries to the Felonie.</p>
+               <p>If any reſcue a Felon from priſon.</p>
+               <p>if any Felon break Priſon, and eſcape, or be ſuffered to eſcape, and be reſcued.</p>
+            </div>
+            <div type="part">
+               <head>Miſpriſion of Felony is this.</head>
+               <p>If any know another to have committed Felony, and do not re<g ref="char:EOLhyphen"/>veal it.</p>
+            </div>
+            <div type="part">
+               <head>Treſpaſſes and Offences againſt the peace Finable are theſe.</head>
+               <p>If any Menace, Aſſault, Beat, or wound another.</p>
+               <p>if any make unlawfull entry upon other mens Lands, or un<g ref="char:EOLhyphen"/>lawfully take away other mens Goods.</p>
+               <p>if any make unlawfull Aſſemblies, Routs, or Riots.</p>
+               <p>If any chide, or brawle, or draw a weapon to ſtrike, or doe ſtrike in a Church or Church-yard.</p>
+               <p>if any keep a Fair, or Market in a Church or Church-yard.</p>
+               <p>If any ſay, or hear Maſſe</p>
+               <p>If Papiſts be abſent from Church a moneth together</p>
+               <p>If any keep a Recuſant Schoolmaſter, or other Recuſant ſer<g ref="char:EOLhyphen"/>vant in his houſe:</p>
+               <p>If any ſhall voluntarily diſturb the Preacher in his Sermon:</p>
+               <p>If any affirm that the eating of Fiſh, or forbearing fleſh at ſet times is neceſſary for our ſalvation, or for other purpoſe, then as a politick conſtitution:</p>
+               <pb n="20" facs="tcp:170619:10"/>
+               <p>If any frame, make, or publiſh any falſe, ſcandalous, or libel<g ref="char:EOLhyphen"/>lous Writing or Picture againſt another, or to the diſgrace of others, or whereby to move contention amongſt men.</p>
+               <p>And touching this devilliſh invention of Libelling and Defa<g ref="char:EOLhyphen"/>ming others, in theſe dayes more frequent then ever, by falſe and horrible lies and ſlanders, and Pamphlets publiſht even againſt the <hi>Parliament</hi> it ſelf and every Member of it, and every man that wiſhes well to it, your ſelves can teſtifie how frequent it is, and hath been of late, and therefore <hi>I</hi> beſeech you be carefull to finde out ſome of thoſe who have been offenders in it:</p>
+               <p>And thus you have here mention of the Offences againſt Pub<g ref="char:EOLhyphen"/>like Peace, which are as ſo many Diſeaſes in the Heart of the Po<g ref="char:EOLhyphen"/>tique Body of the Commonwealth.</p>
+            </div>
+         </div>
+         <div type="section">
+            <head>Next comes the Offences againſt Publike Iuſtice, which are alſo to be found out by us; and theſe are either againſt Iuſtice in the generall, or are Offences by Officers truſted in particular Adminiſtrations, or by Artificers, and Labourers, and Maſters and ſervants.</head>
+            <div type="part">
+               <head>Offences againſt Juſtice in generall.</head>
+               <p>IF any be a common ſtirrer and procurer of Law-Sutes, or a common Brabler or Quarreller among his Neighbours; this is <hi>Barratry.</hi>
+               </p>
+               <p>If any Buy or Contract for a pretended Right or Title to Land, or other thing in Controverſie of Suite, this is unlawfull buying of Titles:</p>
+               <p>If any maintain the Law-Suite of another, to have part of the thing in demand, or otherwiſe; this is maintenance of Champerty.</p>
+               <p>If any get Goods of another into his hands by falſe Tokens and Meſſages; this is a deceit puniſhable.</p>
+               <p>If any counterfeit any Deed or Writing, and publiſh it as true, this is Forgerie:</p>
+               <p>If any corrupt a Jurie man, by Briberie, or Menace, to divert him from giving a juſt Verdict, this is Imbracerie:</p>
+               <p>If any corrupt you of the Grand-Jurie by Bribes, or otherwiſe, to make favourable Preſentments:</p>
+               <p>If any Informer upon Poenall Laws do not duely purſue his Information, or if he ſue out Proceſſe before the Information be exhibited, or compound before the Defendant hath anſwered,
+<pb n="21" facs="tcp:170619:10"/> or after anſwer, without Licenſe:</p>
+               <p>If any wilfully and corruptly ſwear falſly in evidence to a Ju<g ref="char:EOLhyphen"/>rie, it is perjury, and to procure another ſo to do, is ſuborna<g ref="char:EOLhyphen"/>tion of Perjurie:</p>
+               <p>If any take more Intereſt upon Loan of Money, then after 8 l. <hi>per Centum</hi> for a year, this is unlawfull Uſury and Extortion.</p>
+            </div>
+         </div>
+         <div type="section">
+            <head>Touching publike Officers truſted in the adminiſtration of Juſtice, and failing in their duty.</head>
+            <div type="part">
+               <head>Firſt the Sheriffe.</head>
+               <p>THis is a great Officer, and is much truſted in the Service of the People, and by the Statute of <hi>Articulum ſuper Chartas,</hi> is to be choſen yearly by the People, that they might the better be aſſured of thoſe they truſted: But this Priviledge of Election (among others) the People have loſt, and the Court of later Times did learn how to make profit, both by Electing Sheriffs, as alſo by keeping them off from being Elected:</p>
+               <p>In his Office you finde him a Judge, and a Miniſter of Juſtice: He is a Judge in his Court, called the <hi>Turne,</hi> and ſits as Judge, and hath the profits in the Court, called <hi>The Countie Court.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Touching the <hi>Turne</hi>
+               </head>
+               <p>If the Sheriffe or his Deputy do not ſend Indictments found in his <hi>Turne,</hi> to the next Seſſions:</p>
+               <p>If the Sheriff or Bailiffs arreſt any perſon upon an Indictment in his <hi>Turne,</hi> or levie the Fines, or Amerciaments impoſed in his <hi>Turne,</hi> without Warrant indented from the Seſſions.</p>
+            </div>
+            <div type="part">
+               <head>Touching the <hi>Countie Court.</hi>
+               </head>
+               <p>If the Sheriffe, or his Bailiffe enter Plaints in his Countie Court in the Abſence of the Plaintiffe, or of ſome other known perſon authorized by him.</p>
+               <p>If the Sheriffe or his Bailiffs enter more Plaints then one in his Countie Court upon one Cauſe of Action.</p>
+               <p>If the Sheriffe or his Bailiffs fail to Summon the Defendant to appear at the County Court:</p>
+               <p>If the Sheriffe or his Bailiffs leavie the Amerciaments ſet in the Countie Court upon the Defendants for not Appearing, call'd <hi>The Sheriffs Amerciaments,</hi> without an indented Eſtreet between him and two Juſtices of the Peace, as a Miniſter of Juſtice.</p>
+            </div>
+            <div type="part">
+               <pb n="22" facs="tcp:170619:11"/>
+               <head>As a Miniſter of Juſtice.</head>
+               <p>If the Sheriffe let his Countie or Bailiwick to farme:</p>
+               <p>If the Sheriffe or his Bailiffes collect the Greenwax Eſtreats of the Exchequer, without ſhewing the Eſtreats under Seal.</p>
+               <p>If the Sheriffs Officer or Gaoler for any cauſe but Court-Fees, detain any priſoner in Gaol after the Court hath diſcharged him.</p>
+               <p>If any Sheriffe make out any Warrant to make an Arreſt, not having the Proceſſe then in his cuſtody:</p>
+               <p>If the <hi>Sheriff</hi> or his Deputie take for Breaking-up a Common Law mean Proceſſe, and making an Arreſt, above two ſhillings four pence, <hi>viz.</hi> twenty pence the Warrant, four pence the Ar<g ref="char:EOLhyphen"/>reſt, and four pence the Bond, if the Defendant be Bound, or four pence the Gaoler, if the Defendant come to the Gaole:</p>
+               <p>If the <hi>Sheriff</hi> or his Deputy take above one ſhilling at pound for raiſing an Execution under one hundred pounds, &amp; ſix pence at pound for every hundred pounds more, and this after the Ex<g ref="char:EOLhyphen"/>ecution is levyed:</p>
+               <p>If the <hi>Sheriff</hi> or his Bailiff take any Money, or other Reward for ſparing an Arreſt, or for letting to Bayl perſons not Baylable, or for ſhewing him any other favour:</p>
+               <p>If the <hi>Sheriffs</hi> refuſe to let to Bayl perſons Arreſted upon mean Proceſſes, who are Baylable by Law:</p>
+               <p>If the <hi>Sheriff</hi> or his Deputy take a Bond for appearance of any other Forme then that directed by the Statute:</p>
+               <p>If the <hi>Sheriff</hi> return any Jurors without their true Additions.</p>
+               <p>If the <hi>Sheriff</hi> or his Deputie take any thing for making and returning Pannels of Juries, or take above four pence for the Copie of one Pannell.</p>
+               <p>If the <hi>Sheriff</hi> or <hi>Gaoler</hi> deny to receive without Fee Felons ſent to the Gaole.</p>
+               <p>If the Bayliff of any Libertie do not perform the ſame duties as they are injoyned to <hi>Sheriffs</hi> in executing Warrants &amp; Proceſſes di<g ref="char:EOLhyphen"/>rected to them:</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Touching the Conſtable.</hi> This is an Officer of Iuſtice, and an Officer of Peace, and is of great Truſt and good uſe, if he perform his Duty, and there<g ref="char:EOLhyphen"/>fore by the way let me ſay, that care muſt be taken by the Ju<g ref="char:EOLhyphen"/>ſtices of Peace, and Stewards in Leetes, that able and honeſt perſons, and fit for the ſervice be put into this imployment.</head>
+               <pb n="23" facs="tcp:170619:11"/>
+               <p>IF he do not endeavour to preſerve the Peace, and prevent the breach of it.</p>
+               <p>If he do not Arreſt night-walkers, and ſuſpected perſons.</p>
+               <p>If he do not haſtily purſue, Hue and Crie after Murtherers, and Robbers:</p>
+               <p>If he do not cauſe Watch by Night, and Ward by Day to bee kept within his Office from <hi>Aſcenſion</hi> day to <hi>Michaelmas</hi> day, and Ward by day the reſt of the year.</p>
+               <p>If he do not truly execute and return all Warrants ſent to him from Juſtices of the Peace:</p>
+               <p>If he do not appoint in <hi>Eaſter</hi> week Overſeers of Highwayes:</p>
+               <p>If he do not apprehend Beggars, Rogues and Vagabonds that are wandring or begging within his Office, and if any have hin<g ref="char:EOLhyphen"/>dred him from doing his dutie therein;</p>
+               <p>If he do not puniſh by Stocking ſuch as refuſe to labour in Hay and Harveſt Time:</p>
+               <p>If he do not Inventory Felons Goods hapning within his Office.</p>
+               <p>If he do not once a month ſearch Alehouſes, Maltmakers hou<g ref="char:EOLhyphen"/>ſes, and houſes of gaming and Bawdery.</p>
+               <p>If he do not preſent at the Seſſions, or to the next Juſtices, the diſorders in Alehouſes, defects in Highwayes, Recuſants abſence from Church; And ſuch as keep Doggs, Gunnes, Nets, and the like, for the unlawfull taking of Wilde-Fowle, and Hares.</p>
+               <p>If he do not drive the Commons within his Office for infected and unlawfull Cattell, once (at leaſt) in Summer:</p>
+            </div>
+            <div type="part">
+               <head>Coroner.</head>
+               <p>IF he fail to performe his dutie upon Summons, as well where the Fact is by miſadventures, as by mans hand:</p>
+               <p>If he take any Fee where the Fact is by miſadventure.</p>
+               <p>If he take any Fee above thirteene ſhillings foure pence where the Fact is by mans hand, and that of the Goods of the Manſlayer, if he be in Cuſtodie, or <hi>if</hi> he eſcape, then of the Town where the Fact was done.</p>
+            </div>
+            <div type="part">
+               <head>Cleark of the Market.</head>
+               <p>IF hee take any common Fine for diſpenſing with faults in Weights and Meaſures.</p>
+               <p>
+                  <hi>If</hi> he take any Fee for Marking Weights and Meaſures, but
+<pb n="24" facs="tcp:170619:12"/> thoſe allowed, one pennie for a Buſhell, and 100 weight; half a penny for half a Buſhell, and halfe 100 weight; a farthing for every leſſe weight or Meaſure.</p>
+            </div>
+            <div type="part">
+               <head>Cleark of the Peace.</head>
+               <p>IF he take any Fee for his Office doing, but thoſe allowed, <hi>viz.</hi>
+               </p>
+               <p>For an Alehouſe Recogniſance one ſhilling.</p>
+               <p>For a Badgers or Drovers Licenſe two ſhillings.</p>
+               <p>For Inrowlling Preſentments for Recuſants,</p>
+               <p>For Inrowling of a Recognizance of a Rogue taken into ſer<g ref="char:EOLhyphen"/>vice, one ſhilling.</p>
+               <p>For Inrowling a Deed of Bargain, and Sale of Land, being un<g ref="char:EOLhyphen"/>der forty ſhillings <hi>per Annum</hi> value, one ſhilling.</p>
+               <p>And if it exceed forty ſhillings <hi>per annum</hi> value, two ſhillings ſix pence.</p>
+            </div>
+            <div type="part">
+               <head>Ordinary.</head>
+               <p>If he take any Fee but thoſe allowed for Proving of a Will, or granting an Adminiſtration, <hi>viz.</hi>
+               </p>
+               <p>Where the Inventorie exceeds fortie pounds, five ſhillings.</p>
+               <p>Where it is under forty pounds, and above five pounds, his fee is three ſhillings ſix pence.</p>
+               <p>Where but five pounds or under, he muſt have ſix pence.</p>
+               <p>Or a penny for every ten Lines ten Inches long, which Rate is alſo allowed for their Copies;</p>
+               <p>And what is taken more then thoſe, is Extortion.</p>
+               <p>If any Miniſter take any Mortuary, but where the cuſtome of the Place allowes it; or where it is allowed, if he take any Mor<g ref="char:EOLhyphen"/>tuary for an Infant, Feme Covert, or Traveller; or if hee take any thing where the Inventory is under ten Marks, or if he take above three ſhillings four pence where the Inventory is above ten Marks, and under thirty pounds; or if he take above fix ſhil<g ref="char:EOLhyphen"/>lings eight pence where the Inventory is above thirty pounds and under forty pounds; or if he take above ten ſhillings where the Inventory is above forty pounds.</p>
+            </div>
+            <div type="part">
+               <head>Searchers and Sealers of Leather.</head>
+               <p>IF they be not appointed by the Owner of the Market in Mar<g ref="char:EOLhyphen"/>ket Townes:</p>
+               <p>If they (being appointed) refuſe the Office:</p>
+               <pb n="25" facs="tcp:170619:12"/>
+               <p>If they do not in covenient time performe their Dutie and Of<g ref="char:EOLhyphen"/>fice upon particular occaſions when Leather is brought to them to view:</p>
+               <p>If they be not furniſht with a Regiſter-Book and a Seal.</p>
+               <p>If they fail to ſet down all Bargains of Tand and unwrought Leather.</p>
+               <p>If they allow ſuch as is inſufficient or diſallow ſuch as is ſuffici<g ref="char:EOLhyphen"/>ent.</p>
+               <p>If they take any Fee, ſave ſuch as is allowed, <hi>viz.</hi> for every can Hides two pence, and for every ſix dozen of Calf-Skins 2 pence:</p>
+               <p>If Triers of Tand-Leather ſeized for inſufficient be not appoin<g ref="char:EOLhyphen"/>ted by the Owners and Rulers of Fairs or Markets.</p>
+               <p>If the Tryers refuſe to perform their dutie.</p>
+            </div>
+            <div type="part">
+               <head>Tolgatherers.</head>
+               <p>IF Owners or Rulers of <hi>Fairs</hi> and Markets have not appointed ſome certain place for ſale of Horſes there, and a Toll-gatherer to attend.</p>
+               <p>If the Toll-gatherer do not ſit in open place in Markets and Fayers, where Horſes and Cattell are ſold, and continue there from ten of Clock in the Morning, till Sunne-ſet.</p>
+               <p>If he do not keep a Regiſter-Book, and therein ſet down the Bargains brought before him, and have the Parties and Vouchers preſent which he knows.</p>
+               <p>If he take any <hi>Fee</hi> or Reward ſave that allowed, <hi>viz.</hi> a penny for one Bargain.</p>
+               <p>If any perſon comming in as a Voucher, take upon him the knowledge of the Seller, and do not intruth know him.</p>
+               <p>If the Toll-gatherer refuſe to deliver a Copie of his Entry, or take above two pence for it.</p>
+            </div>
+            <div type="part">
+               <head>Overſeers of the Poor.</head>
+               <p>IF they refuſe to execute their Office, being appointed thereto by the Juſtices of Peace.</p>
+               <p>If they do not provide a common ſtock, and take care to keep the Poor at work upon the common Stock of the Pariſh.</p>
+               <p>If they doe not meet once a moneth particularly to conferre about the performance of their dutie.</p>
+               <p>If they do not raiſe a weekly Taxation for the maintenance of the impotent poor.</p>
+               <pb n="26" facs="tcp:170619:13"/>
+               <p>If they ſuffer their Pariſhners to wander and begge out of their Pariſh.</p>
+            </div>
+            <div type="part">
+               <head>Overſeers of High-Wayes.</head>
+               <p>IF they refuſe to execute the Office, being choſen thereto by the Conſtable and Neighbourhood.</p>
+               <p>If they do not upon the next Sunday after <hi>Eaſter</hi> appoint publikely in the Church ſix dayes betwixt that and Midſum<g ref="char:EOLhyphen"/>mer for the Neighbours to meet for mending the Highwayes in the Pariſh.</p>
+               <p>If they doe not attend at the dayes appointed to direct the Works.</p>
+               <p>If they do not preſent to the next Juſtice of Peace, or at the next Seſſions the defaults of abſent Pariſhners.</p>
+               <p>If they do not preſent to the two next Juſtices of Peace the defects of Highwayes, &amp; of not ſcowring the Ditches, that ſhould lead and avoid the Water from ſtanding in High-wayes.</p>
+            </div>
+            <div type="part">
+               <head>Touching Artificers, Labourers, Maſters and Servants.</head>
+               <p>IF Artificers, Labourers or Servants conſpire what Wages to take and not to work under thoſe Rates.</p>
+               <p>If Artificers or Labourers undertake Work, and depart before it be finiſhed.</p>
+               <p>If they do not continue from five a Clock in the Morning till ſeven at night in the Summer, and from ſeven till five in Winter.</p>
+               <p>If Labourers or Servants take any more Wages then the Rates allowed by the Juſtices.</p>
+               <p>If any Servant aſſault Maſter or Miſtreſſe.</p>
+               <p>If a Tradeſman retain a Journeyman for leſſe time then a year.</p>
+               <p>If for every three Prentiſes they do not keep one Journeyman, and for every Prentiſe above three one Journeyman more.</p>
+               <p>If they refuſe to labour in Hay-time or Harveſt.</p>
+               <p>If a ſervant depart from one Pariſh to another without a Te<g ref="char:EOLhyphen"/>ſtimoniall from his Maſter.</p>
+               <p>If any Maſter Hire any ſuch ſervant wanting a Teſtimoniall.</p>
+               <p>If any ſervant depart within his Terme, or at the end of his Terme without a Quarters warning, unleſſe the cauſe be allowed before two Juſtices of Peace.</p>
+               <p>If any Maſter put away his Servant within his Term, or at the
+<pb n="27" facs="tcp:170619:13"/> end of his Terme, without a Quarters-warning, unleſſe the cauſe be allowed before two Juſtices of Peace.</p>
+            </div>
+            <div type="part">
+               <head>Braziers and Pewterers.</head>
+               <p>IF any Brazier or Pewterer buy or exchange any Metall belong<g ref="char:EOLhyphen"/>ing to his Trade, but in his open Shop, or Fair, or Market.</p>
+               <p>If they ſell their Wares of Metall not of the Allay of <hi>London.</hi>
+               </p>
+               <p>If they uſe any deceitfull Weights, or falſe Beams.</p>
+            </div>
+         </div>
+         <div type="section">
+            <head>Cordwayners, <hi>viz.</hi> Tanner, Currier, Shoomaker and Butcher dealing with the Hide.</head>
+            <div type="part">
+               <head>Tanner.</head>
+               <p>IF he ſet his Fatts in Tannhills.</p>
+               <p>If he overlime his Hides.</p>
+               <p>If he Tann any Leather in warme Owze:</p>
+               <p>If he do not work the Lyme well out of the Leather:</p>
+               <p>If he uſe any Stuffe but Malt, Meale, Tapwort, Henn-dung, Culidding, Aſhbark, Oakbark:</p>
+               <p>If he uſe any deceitfull mixture for raiſing his Hides:</p>
+               <p>If he ſuffer his Hides to be frozen with Winter Froſt, or to be parcht with Sommer-Sunne, or to bee dryed by the fire:</p>
+               <p>If he Tann any rotten Hides:</p>
+               <p>If he do not renew his Owze ſo oft as need requires:</p>
+               <p>If he do not keep his Soal-Leather twelve moneths, and upper Leather nine moneths in the Owze:</p>
+               <p>If he ſell any Tann'd Leather, which is inſufficiently Tann'd.</p>
+               <p>If he ſell any Tann'd Leather out of a Market.</p>
+               <p>If he ſell any Tann'd Leather before it be ſearch't and Seal'd.</p>
+               <p>If any Tanner be a Curryer or Shoomaker, or uſe any other Trade which cuts Leather, or è <hi>contra.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Curryer.</head>
+               <p>IF he dwell out of a Market Town, or exerciſe his Trade in a Shoomakers Houſe.</p>
+               <p>If he Currey any Leather but ſuch as is ſufficiently Tann'd.</p>
+               <p>If he uſe any other ſtuffe in Currying outer Soal Leather, but good hard Tallow, and no leſſe thereof then the Leather will re<g ref="char:EOLhyphen"/>ceive.</p>
+               <p>If he gaſh or ſcall'd any Hide, or ſhave any Leather too thinne.</p>
+               <pb n="28" facs="tcp:170619:14"/>
+               <p>If he refuſe to Curry Leather brought to him with ſtuffe to work it, or if he keep it in Summer above eight dayes, and in Winter above ſixteen dayes</p>
+               <p>If he be a Tanner or Shoomaker while he is a Curryer.</p>
+            </div>
+            <div type="part">
+               <head>Shoomaker.</head>
+               <p>IF he do not make his Wares of good Leather, Soal and Upper Leather well Tann'd, and well Sew'd with threed well-wax'd, and twiſted, and hard-drawn with Hand-Leathers.</p>
+               <p>If he mixe his Wares, part Neats Leather, part Calf, Horſe or Bull Hide.</p>
+               <p>If he Sell any Wares upon Sundayes.</p>
+            </div>
+            <div type="part">
+               <head>Butcher.</head>
+               <p>IF he gaſh, ſlaughter, or cut any Hide in Fleaing.</p>
+               <p>If he water any Hide ſave in June, July, or Auguſt.</p>
+               <p>If he ſell any corrupt or rotten Hides.</p>
+               <p>If he ſell any Hide but in open Market.</p>
+               <p>If he uſe the Trade of a Tanner.</p>
+            </div>
+            <div type="part">
+               <head>Tann'd Leather.</head>
+               <p>IF any buy Tann'd Leather Red and unwrought, and doe not make it into made Wares.</p>
+               <p>If any but Tanners buy rough Hides.</p>
+               <p>If any buy Tann'd Leather out of a Market.</p>
+               <p>If any buy Tann'd Leather, before it be Searcht and Sealed.</p>
+               <p>If any refuſe and reſiſt the Searchers to make Search.</p>
+               <p>If any ingroſſe Oak-Bark.</p>
+            </div>
+            <div type="part">
+               <head>Cloth-makers.</head>
+               <p>IF any uſe Racking of Linnen Cloth, or uſe Lime, or other un<g ref="char:EOLhyphen"/>due mixture in Whitening Linnen-Cloth.</p>
+            </div>
+            <div type="part">
+               <head>Cooper.</head>
+               <p>IF he make his Ware of unſeaſoned Wood:</p>
+               <p>If he do not make it of due Aſſize, <hi>viz.</hi> The Barrell 36 gal<g ref="char:EOLhyphen"/>lons of Beer, and of Ale 32 gallons.</p>
+               <pb n="29" facs="tcp:170619:14"/>
+               <p>The Kilderkin 18, or 16, gallons of Soap:</p>
+               <p>The Firkin 9, or 8, gallons.</p>
+               <p>If he do not ſet his Mark upon it:</p>
+            </div>
+            <div type="part">
+               <head>Tile-maker.</head>
+               <p>IF he do not digg his earth before the firſt of <hi>November,</hi> and turne it over before the firſt of <hi>February,</hi> and turn it again be<g ref="char:EOLhyphen"/>fore the firſt of <hi>March,</hi> and then trie and tue it from Stones:</p>
+               <p>If he make them of leſſe Aſſize then ten inches and a half long, and ſix inches and a quarter broad; gutter Tyle ten inches long, and ridge Tyle fourteen inches long, and half an inch and quar<g ref="char:EOLhyphen"/>ter thick.</p>
+               <p>And ſo <hi>I</hi> have done with the Offences of this kinde, which are againſt publique Juſtice; and now <hi>I</hi> come to thoſe which are againſt the publike plentie of the Stores of <hi>food</hi> and <hi>proviſion</hi> for the people, and are therefore in theſe hard and dear times to be moſt carefully prevented, if it may be, at leaſt by ſuch wayes as the Law directs:</p>
+            </div>
+         </div>
+         <div type="section">
+            <head>Touching the Plentie of the Countrey, and the diſorders by Victuallers</head>
+            <p>IN generall whatſoever tends to inhance the Price of Victuall by unlawfull increaſing particular mens profits by, it is an offence againſt the plenty of it, and therfore</p>
+            <p>If any do buy any ſort of Victuall as it is comming to a Market or Fair either by Water or Land, it is foreſtalling.</p>
+            <p>If any buy Victuall in a Market, and ſell it again within four miles, it is regrating:</p>
+            <p>If any buy any dead Victuall or Corne growing upon the ground, with intent to ſell it again, it is ingroſſing:</p>
+            <p>If any Victuallers conſpire to ſell their Victuall at unreaſonable prices:</p>
+            <p>If any Victuallers ſell any unwholeſome Victuals:</p>
+            <p>If any buy Corn having ſufficient for his Houſe-Proviſion for a year, and do not bring ſo much other Corn to the Market to bee ſold:</p>
+            <p>If any Drover or other buy Cattell, and ſell them again alive within five weeks:</p>
+            <p>If any perſon take upon him to be a Bagger of Corn, not being
+<pb n="30" facs="tcp:170619:15"/> lawfully Lycenſed by four Juſtices of Peace.</p>
+            <p>If any buy Butter or Cheeſe in groſſe, and ſell it againe in groſſe, or by retaile out of an open ſhop.</p>
+            <p>If any forbear to rear Calves yearly, <hi>viz.</hi> one Calf for every two Kye, or every threeſcore ſheep he keeps; or do not keep a miltch Cow for every threeſcore Sheep.</p>
+            <p>If any tranſport Sheep, Corn, Butter or Cheeſe beyond-ſea.</p>
+            <p>If any keep above two thouſand Sheep at once.</p>
+            <p>If any deſtroy Wilde-Fowls Egges, or take Wilde-Fowle be<g ref="char:EOLhyphen"/>tween the laſt of <hi>May</hi> and the laſt of <hi>Auguſt.</hi>
+            </p>
+            <p>If any Hawk in ſtanding-Corn:</p>
+            <p>If any (not qualified) keep Doggs, Ferrets, Netts, or Engines to take Hares, Conies, Pheſants, or Partridges:</p>
+            <p>If any trace Hares in the Snow:</p>
+            <p>If any Take or Kill Pheſants, or Partridges with Engines, Nets, or Snares, or by ſhooting in Gunnes.</p>
+            <p>If any ſhoot Hail ſhot in Gunnes:</p>
+            <p>If any hunt or kill Deer in Park or Warren:</p>
+            <p>If any ſell Pheſant Partridge or Hare.</p>
+            <div type="part">
+               <head>Alehouſe-Keepers.</head>
+               <p>IF any Alehouſe-Keeper keep an Alehouſe not being Licenſed thereto:</p>
+               <p>If they ſell leſſe then a quart a penny the beſt, and two quarts a penny of the worſer ſort:</p>
+               <p>If they ſuffer unlawfull Games, Tables, Cards or Dice in their Houſes:</p>
+               <p>If Inkeepers do not ſell their Hay &amp; Oats at reaſonable Prizes:</p>
+               <p>If Tavern-keepers ſuffer people to ſit Tippling in their houſes</p>
+               <p>If any perſon continue Tippling and Drinking in Tavern, Inn or Alehouſe:</p>
+               <p>If any perſon be drunk.</p>
+            </div>
+            <div type="part">
+               <head>Bakers.</head>
+               <p>IF any Baker ſell his Bread of leſſe weight then the due Aſſize, <hi>viz.</hi> proportionable to the price of Corn in the Market, as it is regulated by a Printed Aſſize-book, ſet out to that purpoſe.</p>
+               <p>If they do not ſet their proper Mark upon their Bread:</p>
+               <p>If they give above thirteen to the dozen.</p>
+               <p>If any but Bakers bake Horſe-Bread to ſell.</p>
+            </div>
+            <div type="part">
+               <pb n="31" facs="tcp:170619:15"/>
+               <head>Butchers.</head>
+               <p>IF any Butcher kill and ſell Calfes under five weeks old, or any weanling under two years old:</p>
+               <p>If they ſell any mezelled Hogges, or Beaſt that dyed of the Murrain, or other corrupt or unwholſome meat.</p>
+            </div>
+            <div type="part">
+               <head>Fiſh.</head>
+               <p>IF any deſtroy the Frie of Fiſh, or Fiſh with Nets leſſe then two Inches and a half, wide in the Maſh:</p>
+               <p>If any kill any Salmon under ſixteen Inches long, or Pickerils under ten inches long, or Trowts under eight inches long, or Bar<g ref="char:EOLhyphen"/>bels under twelve inches long:</p>
+               <p>If dried fiſh (brought in by ſtrangers) be not of due Aſſize, <hi>viz.</hi> in Barrells of Herring two and thirty gallons, in Barrells of Eels thirteen gallons: in a Butt of Salmon fourſcore &amp; 4 gallons.</p>
+               <p>If any bring Codd or Lyng from beyond-Sea in Barrels to be ſold, or otherwiſe then looſe in bulk:</p>
+               <p>if any ſet Tax, or Toll, or reſtraint upon fiſh brought into this Nation to be ſold:</p>
+               <p>If any cut out or deſtroy Heads or Damms of Ponds, Motes, or Stews of fiſh, or fiſh many ſeverall fiſhings.</p>
+            </div>
+            <div type="part">
+               <head>Malt-makers.</head>
+               <p>IF any Maltmaker do not make his Malt of good and ſweet Bar<g ref="char:EOLhyphen"/>ley, not Mow-burnt or Spired Barley.</p>
+               <p>If they do not rubb it, and dreſſe it well, and fanne half a Peck of duſt out of every Quarter:</p>
+               <p>If it be leſſe time then three weeks in the Fatt, Flowre, &amp; drying.</p>
+            </div>
+            <div type="part">
+               <head>Milner.</head>
+               <p>IF any Milner take exceſſive Toll for grinding Corn, <hi>viz.</hi> above a twentieth part, or four and twentieth part, according to the ſtrength of the Water.</p>
+            </div>
+            <div type="part">
+               <head>Wine.</head>
+               <p>JF any bring in Wine in Forraign Bottomes.</p>
+               <p>If any bring in Wine in Veſſels not of due Aſſize, <hi>viz.</hi> the
+<pb n="32" facs="tcp:170619:16"/> Butt 126 gallons, Hogſhead 63 gallons, Pipe 126 gallons, Terce 84 gallons, Tunne 252 gallons.</p>
+               <p>If any ſell Wine above the Price Proclaimed in Chancery.</p>
+               <p>And thus you ſee how the Publike plenty of the Countrey is di<g ref="char:EOLhyphen"/>miniſhed for a few mens particular gains, &amp; you ſee alſo how the abuſes may be reformed, to a general advantage of all the people.</p>
+            </div>
+            <div type="part">
+               <head>Laſtly, Common Nuſances are to be enquired after.</head>
+               <p>TOuching Common-Nuſances, or Offences done againſt the generall eaſements of the People, as againſt the health, beautie, and good Complexion of the Body Politick, are theſe.</p>
+               <p>If any erect a Cottage, and do not lay four Acres of ground to it, to be occupyed with it:</p>
+               <p>If any continue ſuch unlawfull Cottage.</p>
+               <p>If any keep an Inmate, or underſitter in a Cottage.</p>
+               <p>If any common Bridge be out of repair:</p>
+               <p>If High-wayes to Market Towns be not inlarged and cleanſed of Wood 200 Foot at leaſt:</p>
+               <p>If any common High-way be out of repair, or if any Ditches be unſcowred, or undreſt, which ſhould convey and avoid the water from ſtanding in High-wayes:</p>
+               <p>If the Pariſhners have not met at the day appointed to mend the High-wayes, as the Law directs:</p>
+               <p>If any keep common-gaming houſes, Bowling-Allies, or the like:</p>
+               <p>If any common Vagabonds and Beggars, or wandring Rogues, or dangerous Rogues do paſſe, or be ſuffered to paſſe from place to place, or be relieved in places where they come:</p>
+               <p>If any keep or uſe unlawfull Weights and Meaſures not accord<g ref="char:EOLhyphen"/>ing to the Standard of the Exchequer; or if Weights and Mea<g ref="char:EOLhyphen"/>ſures of the Standard Aſſize be not kept in every Market Towne:</p>
+               <p>If any uſe any Weights or Meaſures unſearch'd or unſeal'd:</p>
+               <p>If any prophane the Lords Day, <hi>viz.</hi> by travelling that day, or by uſing ſports, and unlawfull exerciſes that day:</p>
+               <p>If any prophanely ſwear or curſe:</p>
+               <p>If any keep a ſtoned Horſe in any common ground, not being fourteen handfuls high</p>
+            </div>
+         </div>
+         <div type="conclusion">
+            <p>And thus you ſee how the wiſdome of the Common Laws of this Nation, and of the Parliaments from time to time hath pro<g ref="char:EOLhyphen"/>vided
+<pb n="33" facs="tcp:170619:16"/> for the ſecurity and eaſe of the people, and hath furniſhed us with a Salve for every Soar, and gives us rules and inſtructions how to govern our ſelves, that we may be helpfull and uſefull to one another; and from whence it is that we may well conclude, <hi>If we keep the Law the Law will keep us,</hi> and that <hi>If we place the Law in the Throne the Law will preſerve &amp; protect us in ſafetie and ſecurity.</hi> Touching theſe Offences which are committed by diſobedient &amp; lawleſs perſons, you who are cull'd out from all the parts of the Countrey and choſen to be the chief Agents and firſt Movers (as I may ſpeak) in this work of Juſtice, which is the ſubject of this dayes Service, and are the Countreys Truſtees for that purpoſe; I do not queſtion but your publike ſpirits are ſuch, and common love to your Countrey ſuch (taking in even your own Intereſts &amp; particular Profits and Concernments) that you will be more then ordinarily carefull to cleanſe the Countrey of theſe Weeds, and darnell and Cockle that growes up among the Corn, Thoſe wic<g ref="char:EOLhyphen"/>ked and unreaſonable men, which are as Pricks and Goads in the Sides of others, and live idlely, looſely and wickedly among the people, and are as ſo many Plague-Soars ſpread over the bodie of the Countie; and the way to cleanſe the Countrey of them, is is to execute Juſtice upon them; for the execution of Juſtice is the work of God himſelf, the end of the Law, the Command of the <hi>Parliament,</hi> the Magiſtrates Honour, the Offendors Terrour, and the expectation of all honeſt men: And therefore (as once it was ſpoken in another caſe) let it not ſeeme a ſmall thing to you who are to begin this Work of Juſtice, that you are ſepara<g ref="char:EOLhyphen"/>ted from the Congregation, and brought near to the God of Hea<g ref="char:EOLhyphen"/>ven to do the Service of the Tabernacle and to ſtand before the people, and to miniſter unto them. And having ſaid thus much, I leave what remains to your diligence: All our Service begins in you, its your <hi>Ignoramus,</hi> or <hi>Billa vera</hi> which opens and ſhuts, which ſhuts and no man opens.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
